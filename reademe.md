@@ -9,15 +9,18 @@ Hi! I'm Blanca, a cybersecurity enthusiast and practitioner dedicated to securin
 I specialize in cybersecurity with a focus on threat detection, vulnerability assessment, and digital forensics. I’m passionate about helping individuals and organizations defend against evolving cyber threats.
 
 - 🧠 Areas of interest: Penetration Testing, Incident Response, SIEM, Malware Analysis
-- 💼 Currently working at Santander bank
+- 💼 Currently working at Santander bank as a Cybersecurity Analyst
 - 🎓 Certifications: Ethical Hacker (Cisco Networking Academy), Certificado de Ciberinteligencia y fuentes abiertas (CCN-CERT Centro Criptológico Nacional), Ethical Hacking and Penetration Tester (CyberLand Sec) y Azure Fundamentals (Microsoft).
 - 🌍 Based in Guadalajara, Spain
 
 ---
+## Education 
+- Computer Science Engineering
+- Master on Cybersecurity
 
 ## 🛡️ Technical Skills
 
-- **Security Tools:** Wireshark, Metasploit, Burp Suite, Nmap, Nessus
+- **Security Tools:** Wireshark, Metasploit, Burp Suite, Nmap, Nessus, CNAPP tools
 - **Languages:** Python, Bash, PowerShell
 - **Frameworks & Platforms:** Kali Linux
 - **Practices:** Network Security, Endpoint Protection, Secure Code Review, Threat Hunting
