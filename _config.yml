@@ -1,0 +1,6 @@
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+  - jekyll-remote-theme
+title: Blanca Calderón Portfolio
+baseurl: "https://blancacal.github.io/blanca_cald.github.io/"
+url: "https://blancacal.github.io/blanca_cald.github.io/"
