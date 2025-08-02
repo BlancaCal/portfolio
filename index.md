@@ -3,7 +3,6 @@ layout: default
 ---
 
 <style>
-/* Container grid for the six summary boxes */
 .summary-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -11,7 +10,7 @@ layout: default
   margin-bottom: 30px;
 }
 
-/* Summary pill style */
+/* Remove default marker */
 details > summary {
   list-style: none;
   padding: 15px 20px;
@@ -21,9 +20,9 @@ details > summary {
   font-weight: 600;
   text-align: center;
   transition: background-color 0.25s ease;
-  display: inline-block;
   user-select: none;
   font-size: 0.95rem;
+  position: relative;
 }
 details > summary::-webkit-details-marker {
   display: none;
@@ -36,22 +35,23 @@ details[open] > summary {
   color: white;
 }
 
-/* Expanded content box: full width under grid */
-.detail-content {
+/* Content box under each summary */
+.details-inner {
   background-color: #7CFC00;
   border-radius: 20px;
-  padding: 25px;
+  padding: 20px;
   margin-top: 10px;
-  font-size: 1rem;
+  font-size: 0.95rem;
   line-height: 1.35;
 }
 
-/* Ensure the expanded content spans full container width */
-.detail-wrapper {
-  margin-bottom: 40px;
+/* Make the summary pill and its expanded content span full width of its grid cell */
+.details-wrapper {
+  display: flex;
+  flex-direction: column;
 }
 
-/* Responsive fallback: stack on narrow viewports */
+/* Responsive fallback */
 @media (max-width: 900px) {
   .summary-grid {
     grid-template-columns: repeat(2, 1fr);
@@ -66,111 +66,73 @@ Hi! I'm **Blanca**, a cybersecurity enthusiast and practitioner dedicated to sec
 ---
 
 <div class="summary-grid">
-  <div>
+  <div class="details-wrapper">
     <details id="about-me">
       <summary>🔐 ABOUT ME</summary>
+      <div class="details-inner">
+        I specialize in cybersecurity with a focus on threat detection, vulnerability assessment, and digital forensics. I’m passionate about helping individuals and organizations defend against evolving cyber threats.
+
+        - 🧠 Areas of interest: Penetration Testing, Incident Response, SIEM, Malware Analysis  
+        - 💼 Currently working at Santander bank as a Cybersecurity Analyst  
+        - 🌍 Based in Guadalajara, Spain
+      </div>
     </details>
   </div>
-  <div>
+
+  <div class="details-wrapper">
     <details id="education">
       <summary>🎓 EDUCATION</summary>
+      <div class="details-inner">
+        - Computer Science Engineering  
+        - Master on Cybersecurity
+      </div>
     </details>
   </div>
-  <div>
+
+  <div class="details-wrapper">
     <details id="technical-skills">
       <summary>🛠️ TECHNICAL SKILLS</summary>
+      <div class="details-inner">
+        - <strong>Security Tools:</strong> Wireshark, Metasploit, Burp Suite, Nmap, Nessus, CNAPP tools  
+        - <strong>Languages:</strong> Python, Bash, PowerShell  
+        - <strong>Frameworks & Platforms:</strong> Kali Linux  
+        - <strong>Practices:</strong> Network Security, Endpoint Protection, Secure Code Review, Threat Hunting
+      </div>
     </details>
   </div>
-  <div>
+
+  <div class="details-wrapper">
     <details id="certifications">
       <summary>📜 CERTIFICATIONS</summary>
+      <div class="details-inner">
+        - Ethical Hacker (Cisco Networking Academy)  
+        - Certificado de Ciberinteligencia y fuentes abiertas (CCN-CERT Centro Criptológico Nacional)  
+        - Ethical Hacking and Penetration Tester (CyberLand Sec)  
+        - Azure Fundamentals (Microsoft)
+      </div>
     </details>
   </div>
-  <div>
+
+  <div class="details-wrapper">
     <details id="projects">
       <summary>📂 PROJECTS</summary>
+      <div class="details-inner">
+        ### 🔍 Vulnerability Assessment Tool  
+        *Description and repo coming soon.*
+      </div>
     </details>
   </div>
-  <div>
+
+  <div class="details-wrapper">
     <details id="contact">
       <summary>📫 CONTACT</summary>
+      <div class="details-inner">
+        - 📧 Email: blanca.calderon@gmail.com  
+        - 💼 [LinkedIn](https://www.linkedin.com/in/blanca-calder%C3%B3n-gonz%C3%A1lez-a28313252/)  
+        - 🔒 [GitHub](https://github.com/BlancaCal)
+      </div>
     </details>
   </div>
-</div>
-
-<!-- Expanded content sections; users open each to reveal -->
-<div class="detail-wrapper">
-  <details open>
-    <summary style="display:none;"></summary>
-    <div class="detail-content">
-      <strong>🔐 About Me</strong><br><br>
-      I specialize in cybersecurity with a focus on threat detection, vulnerability assessment, and digital forensics. I’m passionate about helping individuals and organizations defend against evolving cyber threats.
-
-      - 🧠 Areas of interest: Penetration Testing, Incident Response, SIEM, Malware Analysis  
-      - 💼 Currently working at Santander bank as a Cybersecurity Analyst  
-      - 🌍 Based in Guadalajara, Spain
-    </div>
-  </details>
-</div>
-
-<div class="detail-wrapper">
-  <details>
-    <summary style="display:none;"></summary>
-    <div class="detail-content">
-      <strong>🎓 Education</strong><br><br>
-      - Computer Science Engineering  
-      - Master on Cybersecurity
-    </div>
-  </details>
-</div>
-
-<div class="detail-wrapper">
-  <details>
-    <summary style="display:none;"></summary>
-    <div class="detail-content">
-      <strong>🛠️ Technical Skills</strong><br><br>
-      - <strong>Security Tools:</strong> Wireshark, Metasploit, Burp Suite, Nmap, Nessus, CNAPP tools  
-      - <strong>Languages:</strong> Python, Bash, PowerShell  
-      - <strong>Frameworks & Platforms:</strong> Kali Linux  
-      - <strong>Practices:</strong> Network Security, Endpoint Protection, Secure Code Review, Threat Hunting
-    </div>
-  </details>
-</div>
-
-<div class="detail-wrapper">
-  <details>
-    <summary style="display:none;"></summary>
-    <div class="detail-content">
-      <strong>📜 Certifications</strong><br><br>
-      - Ethical Hacker (Cisco Networking Academy)  
-      - Certificado de Ciberinteligencia y fuentes abiertas (CCN-CERT Centro Criptológico Nacional)  
-      - Ethical Hacking and Penetration Tester (CyberLand Sec)  
-      - Azure Fundamentals (Microsoft)
-    </div>
-  </details>
-</div>
-
-<div class="detail-wrapper">
-  <details>
-    <summary style="display:none;"></summary>
-    <div class="detail-content">
-      <strong>📂 Projects</strong><br><br>
-      ### 🔍 Vulnerability Assessment Tool  
-      *Description and repo coming soon.*
-    </div>
-  </details>
-</div>
-
-<div class="detail-wrapper">
-  <details>
-    <summary style="display:none;"></summary>
-    <div class="detail-content">
-      <strong>📫 Contact</strong><br><br>
-      - 📧 Email: blanca.calderon@gmail.com  
-      - 💼 [LinkedIn](https://www.linkedin.com/in/blanca-calder%C3%B3n-gonz%C3%A1lez-a28313252/)  
-      - 🔒 [GitHub](https://github.com/BlancaCal)
-    </div>
-  </details>
 </div>
 
 ---
