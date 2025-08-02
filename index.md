@@ -10,7 +10,6 @@ layout: default
   margin-bottom: 30px;
 }
 
-/* Remove default marker */
 details > summary {
   list-style: none;
   padding: 15px 20px;
@@ -37,7 +36,7 @@ details[open] > summary {
 
 /* Content box under each summary */
 .details-inner {
-  background-color: #7CFC00;
+  background-color: #38b000;
   border-radius: 20px;
   padding: 20px;
   margin-top: 10px;
