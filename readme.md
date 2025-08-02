@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Welcome to My Cybersecurity Portfolio
 
 Hi! I'm Blanca, a cybersecurity enthusiast and practitioner dedicated to securing systems, networks, and applications.
