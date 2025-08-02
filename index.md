@@ -73,9 +73,9 @@ Hi! I'm **Blanca**, a cybersecurity enthusiast and practitioner dedicated to sec
         
         I specialize in cybersecurity with a focus on threat detection, vulnerability assessment, and digital forensics. I’m passionate about helping individuals and organizations defend against evolving cyber threats.
 
-        - 🧠 Areas of interest: Penetration Testing, Incident Response, SIEM, Malware Analysis  
-        - 💼 Currently working at Santander bank as a Cybersecurity Analyst  
-        - 🌍 Based in Guadalajara, Spain
+        <li>🧠 Areas of interest: Penetration Testing, Incident Response, SIEM, Malware Analysis</li>
+        <li>💼 Currently working at Santander bank as a Cybersecurity Analyst</li>
+        <li>🌍 Based in Guadalajara, Spain</li>
       </ul>
       </div>
     </details>
@@ -86,8 +86,8 @@ Hi! I'm **Blanca**, a cybersecurity enthusiast and practitioner dedicated to sec
       <summary>🎓 EDUCATION</summary>
       <div class="details-inner">
         
-        - Computer Science Engineering  
-        - Master on Cybersecurity
+        <li>Computer Science Engineering </li>
+        <li>Master on Cybersecurity</li>
         
       </div>
     </details>
@@ -98,10 +98,10 @@ Hi! I'm **Blanca**, a cybersecurity enthusiast and practitioner dedicated to sec
       <summary>🛠️ TECHNICAL SKILLS</summary>
       <div class="details-inner">
         
-        - <strong>Security Tools:</strong> Wireshark, Metasploit, Burp Suite, Nmap, Nessus, CNAPP tools  
-        - <strong>Languages:</strong> Python, Bash, PowerShell  
-        - <strong>Frameworks & Platforms:</strong> Kali Linux  
-        - <strong>Practices:</strong> Network Security, Endpoint Protection, Secure Code Review, Threat Hunting
+        <li><strong>Security Tools:</strong> Wireshark, Metasploit, Burp Suite, Nmap, Nessus, CNAPP tools</li>  
+        <li><strong>Languages:</strong> Python, Bash, PowerShell</li>
+        <li><strong>Frameworks & Platforms:</strong> Kali Linux</li>  
+        <li><strong>Practices:</strong> Network Security, Endpoint Protection, Secure Code Review, Threat Hunting</li>
         
       </div>
     </details>
@@ -112,10 +112,10 @@ Hi! I'm **Blanca**, a cybersecurity enthusiast and practitioner dedicated to sec
       <summary>📜 CERTIFICATIONS</summary>
       <div class="details-inner">
         
-        - Ethical Hacker (Cisco Networking Academy)  
-        - Certificado de Ciberinteligencia y fuentes abiertas (CCN-CERT Centro Criptológico Nacional)  
-        - Ethical Hacking and Penetration Tester (CyberLand Sec)  
-        - Azure Fundamentals (Microsoft)
+        <li>Ethical Hacker (Cisco Networking Academy)</li>  
+        <li>Certificado de Ciberinteligencia y fuentes abiertas (CCN-CERT Centro Criptológico Nacional)</li>  
+        <li>Ethical Hacking and Penetration Tester (CyberLand Sec)</li>  
+        <li>Azure Fundamentals (Microsoft)</li>
         
       </div>
     </details>
@@ -126,8 +126,7 @@ Hi! I'm **Blanca**, a cybersecurity enthusiast and practitioner dedicated to sec
       <summary>📂 PROJECTS</summary>
       <div class="details-inner">
         
-        <strong>Vulnerability Assessment Tool </strong> 
-        Description and repo coming soon.
+        <li><strong>Vulnerability Assessment Tool </strong></li>
         
       </div>
     </details>
