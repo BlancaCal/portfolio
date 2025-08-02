@@ -134,7 +134,7 @@ Hi! I'm **Blanca**, a cybersecurity enthusiast and practitioner dedicated to sec
       <summary>📫 CONTACT</summary>
       <div class="details-inner">
         <ul style="padding-left:1em; margin:0;">
-          <li>📧 Email: <a href="mailto:blancacaldgonz@gmail.com" target="_blank" rel="noopener">blanca.calderon@gmail.com</a></li>
+          <li>📧 Email: <a href="mailto:blancacaldgonz@gmail.com" target="_blank" rel="noopener">blancacaldgonz@gmail.com</a></li>
           <li>💼 <a href="https://www.linkedin.com/in/blanca-calder%C3%B3n-gonz%C3%A1lez-a28313252/" target="_blank" rel="noopener">LinkedIn</a></li>
           <li>🔒 <a href="https://github.com/BlancaCal" target="_blank" rel="noopener">GitHub</a></li>
         </ul>
