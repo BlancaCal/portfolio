@@ -70,21 +70,26 @@ Hi! I'm **Blanca**, a cybersecurity enthusiast and practitioner dedicated to sec
     <details id="about-me">
       <summary>🔐 ABOUT ME</summary>
       <div class="details-inner">
+        
         I specialize in cybersecurity with a focus on threat detection, vulnerability assessment, and digital forensics. I’m passionate about helping individuals and organizations defend against evolving cyber threats.
 
         - 🧠 Areas of interest: Penetration Testing, Incident Response, SIEM, Malware Analysis  
         - 💼 Currently working at Santander bank as a Cybersecurity Analyst  
         - 🌍 Based in Guadalajara, Spain
+        
       </div>
     </details>
   </div>
+</div>
 
   <div class="details-wrapper">
     <details id="education">
       <summary>🎓 EDUCATION</summary>
       <div class="details-inner">
+        
         - Computer Science Engineering  
         - Master on Cybersecurity
+        
       </div>
     </details>
   </div>
@@ -93,10 +98,12 @@ Hi! I'm **Blanca**, a cybersecurity enthusiast and practitioner dedicated to sec
     <details id="technical-skills">
       <summary>🛠️ TECHNICAL SKILLS</summary>
       <div class="details-inner">
+        
         - <strong>Security Tools:</strong> Wireshark, Metasploit, Burp Suite, Nmap, Nessus, CNAPP tools  
         - <strong>Languages:</strong> Python, Bash, PowerShell  
         - <strong>Frameworks & Platforms:</strong> Kali Linux  
         - <strong>Practices:</strong> Network Security, Endpoint Protection, Secure Code Review, Threat Hunting
+        
       </div>
     </details>
   </div>
@@ -105,10 +112,12 @@ Hi! I'm **Blanca**, a cybersecurity enthusiast and practitioner dedicated to sec
     <details id="certifications">
       <summary>📜 CERTIFICATIONS</summary>
       <div class="details-inner">
+        
         - Ethical Hacker (Cisco Networking Academy)  
         - Certificado de Ciberinteligencia y fuentes abiertas (CCN-CERT Centro Criptológico Nacional)  
         - Ethical Hacking and Penetration Tester (CyberLand Sec)  
         - Azure Fundamentals (Microsoft)
+        
       </div>
     </details>
   </div>
@@ -117,8 +126,10 @@ Hi! I'm **Blanca**, a cybersecurity enthusiast and practitioner dedicated to sec
     <details id="projects">
       <summary>📂 PROJECTS</summary>
       <div class="details-inner">
-        ### 🔍 Vulnerability Assessment Tool  
-        *Description and repo coming soon.*
+        
+        <strong>Vulnerability Assessment Tool </strong> 
+        Description and repo coming soon.
+        
       </div>
     </details>
   </div>
@@ -127,13 +138,15 @@ Hi! I'm **Blanca**, a cybersecurity enthusiast and practitioner dedicated to sec
     <details id="contact">
       <summary>📫 CONTACT</summary>
       <div class="details-inner">
-        - 📧 Email: blanca.calderon@gmail.com  
-        - 💼 [LinkedIn](https://www.linkedin.com/in/blanca-calder%C3%B3n-gonz%C3%A1lez-a28313252/)  
-        - 🔒 [GitHub](https://github.com/BlancaCal)
+        <ul style="padding-left:1em; margin:0;">
+          <li>📧 Email: <a href="mailto:blanca.calderon@gmail.com" target="_blank" rel="noopener">blanca.calderon@gmail.com</a></li>
+          <li>💼 <a href="https://www.linkedin.com/in/blanca-calder%C3%B3n-gonz%C3%A1lez-a28313252/" target="_blank" rel="noopener">LinkedIn</a></li>
+          <li>🔒 <a href="https://github.com/BlancaCal" target="_blank" rel="noopener">GitHub</a></li>
+        </ul>
+          
       </div>
     </details>
   </div>
-</div>
 
 ---
 
