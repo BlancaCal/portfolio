@@ -15,7 +15,7 @@ details > summary {
   list-style: none;
   padding: 15px 20px;
   border-radius: 20px;
-  background-color: #7CFC00;
+  background-color: #38b000;
   cursor: pointer;
   font-weight: 600;
   text-align: center;
@@ -70,17 +70,17 @@ Hi! I'm **Blanca**, a cybersecurity enthusiast and practitioner dedicated to sec
     <details id="about-me">
       <summary>🔐 ABOUT ME</summary>
       <div class="details-inner">
+      <ul style="padding-left:1em; margin:0;">
         
         I specialize in cybersecurity with a focus on threat detection, vulnerability assessment, and digital forensics. I’m passionate about helping individuals and organizations defend against evolving cyber threats.
 
         - 🧠 Areas of interest: Penetration Testing, Incident Response, SIEM, Malware Analysis  
         - 💼 Currently working at Santander bank as a Cybersecurity Analyst  
         - 🌍 Based in Guadalajara, Spain
-        
+      </ul>
       </div>
     </details>
   </div>
-</div>
 
   <div class="details-wrapper">
     <details id="education">
@@ -147,7 +147,7 @@ Hi! I'm **Blanca**, a cybersecurity enthusiast and practitioner dedicated to sec
       </div>
     </details>
   </div>
-
+</div>
 ---
 
 > Thanks for visiting — stay safe out there! 🛡️
