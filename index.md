@@ -73,7 +73,7 @@ Hi! I'm **Blanca**, a cybersecurity enthusiast and practitioner dedicated to sec
         
         I specialize in cybersecurity with a focus on threat detection, vulnerability assessment, and digital forensics. I’m passionate about helping individuals and organizations defend against evolving cyber threats.
 
-        <li>🧠 Areas of interest: Penetration Testing, Incident Response, SIEM, Malware Analysis</li>
+        <li><strong>🧠 Areas of interest:</strong> Penetration Testing, Incident Response, SIEM, Malware Analysis</li>
         <li>💼 Currently working at Santander bank as a Cybersecurity Analyst</li>
         <li>🌍 Based in Guadalajara, Spain</li>
       </ul>
@@ -85,10 +85,10 @@ Hi! I'm **Blanca**, a cybersecurity enthusiast and practitioner dedicated to sec
     <details id="education">
       <summary>🎓 EDUCATION</summary>
       <div class="details-inner">
-        
+      <ul style="padding-left:1em; margin:0;">
         <li>Computer Science Engineering </li>
         <li>Master on Cybersecurity</li>
-        
+      </ul>  
       </div>
     </details>
   </div>
@@ -97,12 +97,12 @@ Hi! I'm **Blanca**, a cybersecurity enthusiast and practitioner dedicated to sec
     <details id="technical-skills">
       <summary>🛠️ TECHNICAL SKILLS</summary>
       <div class="details-inner">
-        
+      <ul style="padding-left:1em; margin:0;">
         <li><strong>Security Tools:</strong> Wireshark, Metasploit, Burp Suite, Nmap, Nessus, CNAPP tools</li>  
         <li><strong>Languages:</strong> Python, Bash, PowerShell</li>
         <li><strong>Frameworks & Platforms:</strong> Kali Linux</li>  
         <li><strong>Practices:</strong> Network Security, Endpoint Protection, Secure Code Review, Threat Hunting</li>
-        
+      </ul> 
       </div>
     </details>
   </div>
@@ -111,12 +111,12 @@ Hi! I'm **Blanca**, a cybersecurity enthusiast and practitioner dedicated to sec
     <details id="certifications">
       <summary>📜 CERTIFICATIONS</summary>
       <div class="details-inner">
-        
+      <ul style="padding-left:1em; margin:0;">
         <li>Ethical Hacker (Cisco Networking Academy)</li>  
         <li>Certificado de Ciberinteligencia y fuentes abiertas (CCN-CERT Centro Criptológico Nacional)</li>  
         <li>Ethical Hacking and Penetration Tester (CyberLand Sec)</li>  
         <li>Azure Fundamentals (Microsoft)</li>
-        
+      </ul>
       </div>
     </details>
   </div>
@@ -125,9 +125,9 @@ Hi! I'm **Blanca**, a cybersecurity enthusiast and practitioner dedicated to sec
     <details id="projects">
       <summary>📂 PROJECTS</summary>
       <div class="details-inner">
-        
+      <ul style="padding-left:1em; margin:0;">
         <li><strong>Vulnerability Assessment Tool </strong></li>
-        
+      </ul>
       </div>
     </details>
   </div>
@@ -141,7 +141,6 @@ Hi! I'm **Blanca**, a cybersecurity enthusiast and practitioner dedicated to sec
           <li>💼 <a href="https://www.linkedin.com/in/blanca-calder%C3%B3n-gonz%C3%A1lez-a28313252/" target="_blank" rel="noopener">LinkedIn</a></li>
           <li>🔒 <a href="https://github.com/BlancaCal" target="_blank" rel="noopener">GitHub</a></li>
         </ul>
-          
       </div>
     </details>
   </div>
