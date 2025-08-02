@@ -70,12 +70,9 @@ Hi! I'm **Blanca**, a cybersecurity enthusiast and practitioner dedicated to sec
       <summary>🔐 ABOUT ME</summary>
       <div class="details-inner">
       <ul style="padding-left:1em; margin:0;">
-        
-        I specialize in cybersecurity with a focus on threat detection, vulnerability assessment, and digital forensics. I’m passionate about helping individuals and organizations defend against evolving cyber threats.
-
+        I specialize in cybersecurity with a focus on threat detection, vulnerability assessment, and digital forensics. 
+        I’m passionate about helping individuals and organizations defend against evolving cyber threats.
         <li><strong>🧠 Areas of interest:</strong> Penetration Testing, Incident Response, SIEM, Malware Analysis</li>
-        <li>💼 Currently working at Santander bank as a Cybersecurity Analyst</li>
-        <li>🌍 Based in Guadalajara, Spain</li>
       </ul>
       </div>
     </details>
