@@ -18,6 +18,8 @@ I specialize in cybersecurity with a focus on threat detection, vulnerability as
 - Computer Science Engineering
 - Master on Cybersecurity
 
+---
+
 ## 🛡️ Technical Skills
 
 - **Security Tools:** Wireshark, Metasploit, Burp Suite, Nmap, Nessus, CNAPP tools
