@@ -326,8 +326,17 @@ layout: default
     <div class="details-inner">
       <ul>
         <li>
-          📧 Email: 
-          <a href="mailto:blancacaldgonz@gmail.com">blancacaldgonz@gmail.com</a>
+          <a href="mailto:blancacaldgonz@gmail.com" style="display:inline-flex; align-items:center; gap:6px;" target="_blank" rel="noopener">
+            <!-- Gmail SVG icon -->
+            <svg aria-hidden="true" width="20" height="20" viewBox="0 0 512 512" fill="currentColor" style="flex-shrink:0;">
+              <path fill="#EA4335" d="M502.3 190.8L327.4 338.3 502.3 461.5V190.8z"/>
+              <path fill="#34A853" d="M502.3 190.8L327.4 338.3 502.3 461.5V190.8zM9.7 190.8v270.7l174.9-123.2L9.7 190.8z"/>
+              <path fill="#FBBC04" d="M9.7 190.8v270.7l174.9-123.2L9.7 190.8z"/>
+              <path fill="#4285F4" d="M502.3 51.5H9.7C4.3 51.5 0 55.8 0 61.2v38.5c0 5.4 4.3 9.7 9.7 9.7h492.6c5.4 0 9.7-4.3 9.7-9.7V61.2c0-5.4-4.3-9.7-9.7-9.7z"/>
+              <path fill="#EA4335" d="M9.7 190.8l246.3 174.5 246.3-174.5V61.2c0-5.4-4.3-9.7-9.7-9.7H19.4c-5.4 0-9.7 4.3-9.7 9.7v129.6z"/>
+            </svg>
+            Gmail
+          </a>
         </li>
         <li>
           <a href="https://www.linkedin.com/in/blanca-calder%C3%B3n-gonz%C3%A1lez-a28313252/" target="_blank" rel="noopener" style="display:inline-flex; align-items:center; gap:6px;">
