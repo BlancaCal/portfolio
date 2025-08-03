@@ -347,6 +347,6 @@ layout: default
   </div>
 
   <div class="footer">
-    <p>Thanks for visiting — committed to securing systems and empowering users through informed defense. 🛡️</p>
+    <p>Thanks for visiting — stay safe out there! 🛡️</p>
   </div>
 </div>
