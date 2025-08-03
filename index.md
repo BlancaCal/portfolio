@@ -325,21 +325,15 @@ layout: default
     <summary>📫 Contact</summary>
     <div class="details-inner">
       <ul>
-        <li>
           <a href="mailto:blancacaldgonz@gmail.com" target="_blank" rel="noopener">
             <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
           </a>
-        </li>
-        <li>
           <a href="https://www.linkedin.com/in/blanca-calder%C3%B3n-gonz%C3%A1lez-a28313252/" target="_blank" rel="noopener">
             <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
           </a>
-        </li>
-        <li>
           <a href="https://github.com/BlancaCal" target="_blank" rel="noopener">
             <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
           </a>
-        </li>
       </ul>
     </div>
   </details>
