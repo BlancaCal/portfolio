@@ -71,8 +71,7 @@ Hi! I'm **Blanca**, a cybersecurity enthusiast and practitioner dedicated to sec
       <div class="details-inner">
       <ul style="padding-left:1em; margin:0;">
         I specialize in cybersecurity with a focus on threat detection, vulnerability assessment, and digital forensics.<br>
-        I’m passionate about helping individuals and organizations defend against evolving cyber threats.<br>
-        <li><strong>🧠 Areas of interest:</strong> Penetration Testing, Incident Response, SIEM, Malware Analysis</li>
+        <li><strong>🧠 Areas of interest:</strong> Penetration Testing, Incident Response, Digital Forensics, Malware Analysis, Secure Code Development, Vulnerability assesment</li>
       </ul>
       </div>
     </details>
