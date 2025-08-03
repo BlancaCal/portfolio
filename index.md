@@ -210,18 +210,14 @@ layout: default
   <section class="hero" aria-label="Introduction">
     <div style="flex:1; min-width:250px;">
       <h1 class="hero-title">Blanca Calderón</h1>
-      <p class="hero-sub">Cybersecurity Analyst | Penetration Testing · Digital Forensics · Vulnerability Assessment</p>
+      <p class="hero-sub">Cybersecurity Analyst | Penetration Testing · Digital Forensics · Vulnerability Assessment · Attack Surface Management</p>
       <div class="cta-group">
         <a class="btn" href="#projects">View Projects</a>
-        <a class="btn btn-secondary" href="/resume.pdf" target="_blank" rel="noopener">Download Résumé</a>
-        <a class="btn" href="https://blancacal.github.io/portfolio/" target="_blank" rel="noopener">Portfolio</a>
+         <a class="btn" href="https://www.linkedin.com/in/blanca-calder%C3%B3n-gonz%C3%A1lez-a28313252?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bh6%2BYRnehQsquyU%2BbhmLa1Q%3D%3D" target="_blank" rel="noopener">Linkedin profile</a>
+        <a class="btn btn-secondary" href="/resume.pdf" target="_blank" rel="noopener">Download CV</a>
       </div>
     </div>
     <div style="min-width:120px; display:flex; align-items:center; justify-content:center;">
-      <!-- Placeholder for avatar or icon -->
-      <div style="width:100px; height:100px; border-radius:50%; background:rgba(255,255,255,0.08); display:flex; align-items:center; justify-content:center; font-size:0.6rem; text-align:center;">
-        Avatar
-      </div>
     </div>
   </section>
 
@@ -231,8 +227,10 @@ layout: default
       <details id="about-me">
         <summary>🔐 About Me</summary>
         <div class="details-inner">
-          <p>I’m a Cybersecurity Analyst and Master’s candidate in Cybersecurity with a background in Computer Engineering. I focus on penetration testing, vulnerability assessment, digital forensics, and threat detection. I continually grow my expertise through hands-on research, industry engagement, and building tools to improve security postures.</p>
-          <p><strong>Areas of interest:</strong> Penetration Testing, Incident Response, Digital Forensics, Malware Analysis, Secure Code Development, Vulnerability Assessment.</p>
+          <p>I’m a Cybersecurity Analyst and Master’s graduate in Cybersecurity with a Computer Engineering Degree.<br>
+            I focus on penetration testing, vulnerability assessment, digital forensics, threat detection and attack surface management.<br>
+            I continually grow my expertise through hands-on research, industry engagement, and building tools to improve security postures.</p>
+          <p><strong>Areas of interest:</strong> Penetration Testing, Incident Response, Digital Forensics, Malware Analysis, Secure Code Development and Vulnerability Assessment.</p>
         </div>
       </details>
     </div>
@@ -242,7 +240,7 @@ layout: default
         <div class="details-inner">
           <ul>
             <li>Bachelor’s Degree in Computer Engineering – University of Alcalá de Henares</li>
-            <li>Master’s Degree in Cybersecurity (in progress)</li>
+            <li>Master’s Degree in Cybersecurity - University of Rioja</li>
             <li>English: C1 – Advanced Professional Proficiency</li>
           </ul>
         </div>
@@ -299,11 +297,11 @@ layout: default
         <div class="details-inner">
           <div class="project">
             <h3 class="project-title">Vulnerability Detection Tool</h3>
-            <p>Developed an automated system to detect, classify, and report web application vulnerabilities using custom heuristics and open-source scanners.</p>
-            <p class="small"><strong>Tech stack:</strong> Python, Nmap, API integration, custom reporting.</p>
+            <p>Developed Visual Studio Code plugin to detect, classify and explain vulnerabilities on code.</p>
+            <p class="small"><strong>Tech stack:</strong> Python, JavaScript, API integration, custom reporting.</p>
             <p class="small"><strong>Role:</strong> Full-stack security developer and analyst.</p>
             <p class="small"><strong>Outcome:</strong> Reduced manual triage time and produced actionable reports for remediation.</p>
-            <p><a href="https://github.com/BlancaCal/vulnerability-detection-tool" target="_blank" rel="noopener">View on GitHub</a></p>
+            <!--<p><a href="https://github.com/BlancaCal/vulnerability-detection-tool" target="_blank" rel="noopener">View on GitHub</a></p> -->
           </div>
           <!-- Additional projects can follow the same structure -->
         </div>
