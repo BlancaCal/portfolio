@@ -326,34 +326,18 @@ layout: default
     <div class="details-inner">
       <ul>
         <li>
-          <a href="mailto:blancacaldgonz@gmail.com" style="display:inline-flex; align-items:center; gap:6px;" target="_blank" rel="noopener">
-            <!-- Gmail SVG icon -->
-            <svg aria-hidden="true" width="20" height="20" viewBox="0 0 512 512" fill="currentColor" style="flex-shrink:0;">
-              <path fill="#EA4335" d="M502.3 190.8L327.4 338.3 502.3 461.5V190.8z"/>
-              <path fill="#34A853" d="M502.3 190.8L327.4 338.3 502.3 461.5V190.8zM9.7 190.8v270.7l174.9-123.2L9.7 190.8z"/>
-              <path fill="#FBBC04" d="M9.7 190.8v270.7l174.9-123.2L9.7 190.8z"/>
-              <path fill="#4285F4" d="M502.3 51.5H9.7C4.3 51.5 0 55.8 0 61.2v38.5c0 5.4 4.3 9.7 9.7 9.7h492.6c5.4 0 9.7-4.3 9.7-9.7V61.2c0-5.4-4.3-9.7-9.7-9.7z"/>
-              <path fill="#EA4335" d="M9.7 190.8l246.3 174.5 246.3-174.5V61.2c0-5.4-4.3-9.7-9.7-9.7H19.4c-5.4 0-9.7 4.3-9.7 9.7v129.6z"/>
-            </svg>
-            Gmail
+          <a href="mailto:blancacaldgonz@gmail.com" target="_blank" rel="noopener">
+            <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
           </a>
         </li>
         <li>
-          <a href="https://www.linkedin.com/in/blanca-calder%C3%B3n-gonz%C3%A1lez-a28313252/" target="_blank" rel="noopener" style="display:inline-flex; align-items:center; gap:6px;">
-            <!-- LinkedIn SVG icon -->
-            <svg aria-hidden="true" width="20" height="20" viewBox="0 0 24 24" fill="currentColor" style="flex-shrink:0;">
-              <path d="M4.98 3.5C4.98 4.88071 3.88071 6 2.5 6C1.11929 6 0 4.88071 0 3.5C0 2.11929 1.11929 1 2.5 1C3.88071 1 4.98 2.11929 4.98 3.5ZM0.5 8H4.5V24H0.5V8ZM7.5 8H11.1V10.17H11.16C11.78 9.01 13.24 7.8 15.48 7.8C20.04 7.8 21 10.93 21 15.22V24H17V15.92C17 13.56 16.96 10.78 14.04 10.78C11.08 10.78 10.64 13.14 10.64 15.76V24H6.64V8H7.5Z" />
-            </svg>
-            LinkedIn
+          <a href="https://www.linkedin.com/in/blanca-calder%C3%B3n-gonz%C3%A1lez-a28313252/" target="_blank" rel="noopener">
+            <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
           </a>
         </li>
         <li>
-          <a href="https://github.com/BlancaCal" target="_blank" rel="noopener" style="display:inline-flex; align-items:center; gap:6px;">
-            <!-- GitHub SVG icon -->
-            <svg aria-hidden="true" width="20" height="20" viewBox="0 0 24 24" fill="currentColor" style="flex-shrink:0;">
-              <path d="M12 0.297C5.373 0.297 0 5.67 0 12.297C0 17.63 3.438 22.09 8.205 23.682C8.805 23.793 9.025 23.438 9.025 23.125C9.025 22.843 9.015 22.143 9.01 21.243C5.672 21.943 4.968 19.653 4.968 19.653C4.422 18.243 3.633 17.843 3.633 17.843C2.546 17.043 3.717 17.058 3.717 17.058C4.922 17.148 5.555 18.313 5.555 18.313C6.633 20.098 8.388 19.618 9.075 19.313C9.185 18.543 9.5 17.993 9.85 17.693C7.155 17.393 4.344 16.333 4.344 11.653C4.344 10.323 4.797 9.223 5.555 8.363C5.425 8.063 5.045 6.823 5.665 5.123C5.665 5.123 6.695 4.803 8.995 6.353C9.985 6.083 11.045 5.95 12.105 5.945C13.165 5.95 14.225 6.083 15.215 6.353C17.515 4.803 18.545 5.123 18.545 5.123C19.165 6.823 18.785 8.063 18.655 8.363C19.415 9.223 19.865 10.323 19.865 11.653C19.865 16.345 17.05 17.392 14.345 17.692C14.805 18.073 15.225 18.833 15.225 20.003C15.225 21.693 15.215 22.843 15.215 23.125C15.215 23.438 15.435 23.8 16.045 23.682C20.81 22.09 24.25 17.63 24.25 12.297C24.25 5.67 18.877 0.297 12.25 0.297H12Z" />
-            </svg>
-            GitHub
+          <a href="https://github.com/BlancaCal" target="_blank" rel="noopener">
+            <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
           </a>
         </li>
       </ul>
