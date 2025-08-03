@@ -70,9 +70,8 @@ Hi! I'm **Blanca**, a cybersecurity enthusiast and practitioner dedicated to sec
       <summary>🔐 ABOUT ME</summary>
       <div class="details-inner">
       <ul style="padding-left:1em; margin:0;">
-        I specialize in cybersecurity with a focus on threat detection, vulnerability assessment, and digital forensics. 
-        I’m passionate about helping individuals and organizations defend against evolving cyber threats.
-        <li><strong>🧠 Areas of interest:</strong> Penetration Testing, Incident Response, SIEM, Malware Analysis</li>
+        I specialize in cybersecurity with a focus on threat detection, vulnerability assessment, and digital forensics.<br>
+        <li><strong>🧠 Areas of interest:</strong> Penetration Testing, Incident Response, Digital Forensics, Malware Analysis, Secure Code Development, Vulnerability assesment</li>
       </ul>
       </div>
     </details>
@@ -83,8 +82,9 @@ Hi! I'm **Blanca**, a cybersecurity enthusiast and practitioner dedicated to sec
       <summary>🎓 EDUCATION</summary>
       <div class="details-inner">
       <ul style="padding-left:1em; margin:0;">
-        <li>Computer Science Engineering </li>
-        <li>Master on Cybersecurity</li>
+        <li>Bachelor’s Degree in Computer Science Engineering</li>
+        <li>Master’s Degree in Cybersecurity</li>
+        <li>English: C1 – Advanced professional proficiency</li>
       </ul>  
       </div>
     </details>
@@ -95,10 +95,12 @@ Hi! I'm **Blanca**, a cybersecurity enthusiast and practitioner dedicated to sec
       <summary>🛠️ TECHNICAL SKILLS</summary>
       <div class="details-inner">
       <ul style="padding-left:1em; margin:0;">
-        <li><strong>Security Tools:</strong> Wireshark, Metasploit, Burp Suite, Nmap, Nessus, CNAPP tools</li>  
-        <li><strong>Languages:</strong> Python, Bash, PowerShell</li>
+        <li><strong>Security Tools:</strong> Metasploit, Burp Suite, Nmap, Nessus, CNAPP tools, Fortify, Wireshark, OWASP ZAP</li>  
+        <li><strong>Forensic Tools:</strong> FTK imager, Autopsy, Wondershare DR. Phone</li>
+        <li><strong>OSINT Tools:</strong> Maltego, Google Dorks, Foca, Shodan, The Harvester</li>
+        <li><strong>Languages:</strong> Python, Bash, PowerShell, Java</li>
         <li><strong>Frameworks & Platforms:</strong> Kali Linux</li>  
-        <li><strong>Practices:</strong> Network Security, Endpoint Protection, Secure Code Review, Threat Hunting</li>
+        <li><strong>Practices:</strong> Secure Code Review, Threat Hunting, Ethical Hacking, Attack Surface Management, Security Hardening, Endpoint Protection </li>
       </ul> 
       </div>
     </details>
@@ -109,10 +111,10 @@ Hi! I'm **Blanca**, a cybersecurity enthusiast and practitioner dedicated to sec
       <summary>📜 CERTIFICATIONS</summary>
       <div class="details-inner">
       <ul style="padding-left:1em; margin:0;">
-        <li>Ethical Hacker (Cisco Networking Academy)</li>  
-        <li>Certificado de Ciberinteligencia y fuentes abiertas (CCN-CERT Centro Criptológico Nacional)</li>  
-        <li>Ethical Hacking and Penetration Tester (CyberLand Sec)</li>  
-        <li>Azure Fundamentals (Microsoft)</li>
+        <li> <a href="https://www.credly.com/badges/f271ee76-5012-409a-804e-84ee6423206a" target="_blank" rel="noopener">Ethical Hacker by Cisco Networking Academy </a></li>  
+        <li> Cyber Intelligence and Open Source Intelligence (OSINT) by CCN-CERT Centro Criptológico Nacional</li>  
+        <li><a href="https://cyberlandsec.com/certificate/22d40978/" target="_blank" rel="noopener">Certified Ethical Hacking and Penetration Tester (CEHPT) by CyberLand Sec</a></li>  
+        <li><a href="https://www.credly.com/badges/863e20e5-b2ba-4729-b816-abb2eca382b2/public_url" target="_blank" rel="noopener">Azure Fundamentals by Microsoft</a></li>
       </ul>
       </div>
     </details>
@@ -123,7 +125,7 @@ Hi! I'm **Blanca**, a cybersecurity enthusiast and practitioner dedicated to sec
       <summary>📂 PROJECTS</summary>
       <div class="details-inner">
       <ul style="padding-left:1em; margin:0;">
-        <li><strong>Vulnerability Assessment Tool </strong></li>
+        <li><strong>Vulnerability Detection Tool on code </strong></li>
       </ul>
       </div>
     </details>
@@ -134,7 +136,7 @@ Hi! I'm **Blanca**, a cybersecurity enthusiast and practitioner dedicated to sec
       <summary>📫 CONTACT</summary>
       <div class="details-inner">
         <ul style="padding-left:1em; margin:0;">
-          <li>📧 Email: <a href="mailto:blanca.calderon@gmail.com" target="_blank" rel="noopener">blanca.calderon@gmail.com</a></li>
+          <li>📧 Email: <a href="mailto:blancacaldgonz@gmail.com" target="_blank" rel="noopener">blancacaldgonz@gmail.com</a></li>
           <li>💼 <a href="https://www.linkedin.com/in/blanca-calder%C3%B3n-gonz%C3%A1lez-a28313252/" target="_blank" rel="noopener">LinkedIn</a></li>
           <li>🔒 <a href="https://github.com/BlancaCal" target="_blank" rel="noopener">GitHub</a></li>
         </ul>
