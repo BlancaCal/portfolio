@@ -203,6 +203,20 @@ layout: default
     font-size: 0.8rem;
     color: var(--muted);
   }
+  
+  .badge-card {
+    display: inline-block;
+    margin: 8px;
+    border-radius: 12px;
+    overflow: hidden;
+    transition: transform .25s ease, box-shadow .25s ease;
+  }
+  
+  .badge-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 20px 60px -10px rgba(56,176,0,0.6);
+  }
+  
 </style>
 
 <div class="container">
@@ -212,9 +226,8 @@ layout: default
       <h1 class="hero-title">Blanca Calderón</h1>
       <p class="hero-sub">Cybersecurity Analyst | Penetration Testing · Digital Forensics · Vulnerability Assessment · Attack Surface Management</p>
       <div class="cta-group">
-        <a class="btn" href="#projects">View Projects</a>
+        <a class="btn" href="https://github.com/BlancaCal?tab=repositories" target="_blank" rel="noopener">View Projects</a>
          <a class="btn" href="https://www.linkedin.com/in/blanca-calder%C3%B3n-gonz%C3%A1lez-a28313252?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bh6%2BYRnehQsquyU%2BbhmLa1Q%3D%3D" target="_blank" rel="noopener">Linkedin profile</a>
-        <a class="btn btn-secondary" href="/resume.pdf" target="_blank" rel="noopener">Download CV</a>
       </div>
     </div>
     <div style="min-width:120px; display:flex; align-items:center; justify-content:center;">
@@ -227,8 +240,8 @@ layout: default
       <details id="about-me">
         <summary>🔐 About Me</summary>
         <div class="details-inner">
-          <p>I’m a Cybersecurity Analyst and Master’s graduate in Cybersecurity with a Computer Engineering Degree.<br>
-            I focus on penetration testing, vulnerability assessment, digital forensics, threat detection and attack surface management.<br>
+          <p>I’m a Cybersecurity Analyst and Master’s graduate in Cybersecurity with a Computer Engineering Degree.<br><br>
+            I focus on penetration testing, vulnerability assessment, digital forensics, threat detection and attack surface management.<br><br>
             I continually grow my expertise through hands-on research, industry engagement, and building tools to improve security postures.</p>
           <p><strong>Areas of interest:</strong> Penetration Testing, Incident Response, Digital Forensics, Malware Analysis, Secure Code Development and Vulnerability Assessment.</p>
         </div>
@@ -266,10 +279,11 @@ layout: default
         <div class="details-inner">
           <ul>
             <li>
-              <span class="badge">Badge</span>
-              <a href="https://www.credly.com/badges/f271ee76-5012-409a-804e-84ee6423206a" target="_blank" rel="noopener">
-                Ethical Hacker – Cisco Networking Academy
-              </a>
+              <div class="badge-card">
+                <a href="https://www.credly.com/badges/f271ee76-5012-409a-804e-84ee6423206a" target="_blank" rel="noopener">
+                  <img src="https://images.credly.com/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" alt="Ethical Hacker Badge">
+                </a>
+              </div>
             </li>
             <li>
               <span class="badge">Certificate</span>
