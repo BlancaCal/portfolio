@@ -113,7 +113,7 @@ Hi! I'm **Blanca**, a cybersecurity enthusiast and practitioner dedicated to sec
       <div class="details-inner">
       <ul style="padding-left:1em; margin:0;">
         <li> <a href="https://www.credly.com/badges/f271ee76-5012-409a-804e-84ee6423206a" target="_blank" rel="noopener">Ethical Hacker by Cisco Networking Academy </a></li>  
-        <li> Cyber Intelligence and Open Source Intelligence (OSINT) by CCN-CERT Centro Criptológico Nacional<li>  
+        <li> Cyber Intelligence and Open Source Intelligence (OSINT) by CCN-CERT Centro Criptológico Nacional</li>  
         <li><a href="https://cyberlandsec.com/certificate/22d40978/" target="_blank" rel="noopener">Certified Ethical Hacking and Penetration Tester (CEHPT) by CyberLand Sec</a></li>  
         <li><a href="https://www.credly.com/badges/863e20e5-b2ba-4729-b816-abb2eca382b2/public_url" target="_blank" rel="noopener">Azure Fundamentals by Microsoft</a></li>
       </ul>
