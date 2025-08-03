@@ -96,9 +96,9 @@ Hi! I'm **Blanca**, a cybersecurity enthusiast and practitioner dedicated to sec
       <summary>🛠️ TECHNICAL SKILLS</summary>
       <div class="details-inner">
       <ul style="padding-left:1em; margin:0;">
-        <li><strong>Security Tools:</strong> Metasploit, Burp Suite, Nmap, Nessus, CNAPP tools, Fortify, Wireshark, OWASP ZAP </li>  
-        <li><strong>Forensic Tools:</strong> FTK imager, Autopsy, Wondershare DR. Phone
-        <li><strong>OSINT Tools:</strong> Maltego, Google Dorks, Foca, Shodan, The Harvester
+        <li><strong>Security Tools:</strong> Metasploit, Burp Suite, Nmap, Nessus, CNAPP tools, Fortify, Wireshark, OWASP ZAP</li>  
+        <li><strong>Forensic Tools:</strong> FTK imager, Autopsy, Wondershare DR. Phone</li>
+        <li><strong>OSINT Tools:</strong> Maltego, Google Dorks, Foca, Shodan, The Harvester</li>
         <li><strong>Languages:</strong> Python, Bash, PowerShell, Java</li>
         <li><strong>Frameworks & Platforms:</strong> Kali Linux</li>  
         <li><strong>Practices:</strong> Secure Code Review, Threat Hunting, Ethical Hacking, Attack Surface Management, Security Hardening, Endpoint Protection </li>
