@@ -279,11 +279,10 @@ layout: default
         <div class="details-inner">
           <ul>
             <li>
-              <div class="badge-card">
-                <a href="https://www.credly.com/badges/f271ee76-5012-409a-804e-84ee6423206a" target="_blank" rel="noopener">
-                  <img src="https://images.credly.com/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" alt="Ethical Hacker Badge">
-                </a>
-              </div>
+              <span class="badge">Badge</span>
+              <a href="https://www.credly.com/badges/f271ee76-5012-409a-804e-84ee6423206a" target="_blank" rel="noopener">
+                Certified Ethical Hacker - Cisco Networking Academy
+              </a>
             </li>
             <li>
               <span class="badge">Certificate</span>
@@ -322,17 +321,36 @@ layout: default
       </details>
     </div>
     <div class="details-wrapper">
-      <details id="contact">
-        <summary>📫 Contact</summary>
-        <div class="details-inner">
-          <ul>
-            <li>📧 Email: <a href="mailto:blancacaldgonz@gmail.com">blancacaldgonz@gmail.com</a></li>
-            <li>💼 <a href="https://www.linkedin.com/in/blanca-calder%C3%B3n-gonz%C3%A1lez-a28313252/" target="_blank" rel="noopener">LinkedIn</a></li>
-            <li>🔒 <a href="https://github.com/BlancaCal" target="_blank" rel="noopener">GitHub</a></li>
-          </ul>
-        </div>
-      </details>
+  <details id="contact">
+    <summary>📫 Contact</summary>
+    <div class="details-inner">
+      <ul>
+        <li>
+          📧 Email: 
+          <a href="mailto:blancacaldgonz@gmail.com">blancacaldgonz@gmail.com</a>
+        </li>
+        <li>
+          <a href="https://www.linkedin.com/in/blanca-calder%C3%B3n-gonz%C3%A1lez-a28313252/" target="_blank" rel="noopener" style="display:inline-flex; align-items:center; gap:6px;">
+            <!-- LinkedIn SVG icon -->
+            <svg aria-hidden="true" width="20" height="20" viewBox="0 0 24 24" fill="currentColor" style="flex-shrink:0;">
+              <path d="M4.98 3.5C4.98 4.88071 3.88071 6 2.5 6C1.11929 6 0 4.88071 0 3.5C0 2.11929 1.11929 1 2.5 1C3.88071 1 4.98 2.11929 4.98 3.5ZM0.5 8H4.5V24H0.5V8ZM7.5 8H11.1V10.17H11.16C11.78 9.01 13.24 7.8 15.48 7.8C20.04 7.8 21 10.93 21 15.22V24H17V15.92C17 13.56 16.96 10.78 14.04 10.78C11.08 10.78 10.64 13.14 10.64 15.76V24H6.64V8H7.5Z" />
+            </svg>
+            LinkedIn
+          </a>
+        </li>
+        <li>
+          <a href="https://github.com/BlancaCal" target="_blank" rel="noopener" style="display:inline-flex; align-items:center; gap:6px;">
+            <!-- GitHub SVG icon -->
+            <svg aria-hidden="true" width="20" height="20" viewBox="0 0 24 24" fill="currentColor" style="flex-shrink:0;">
+              <path d="M12 0.297C5.373 0.297 0 5.67 0 12.297C0 17.63 3.438 22.09 8.205 23.682C8.805 23.793 9.025 23.438 9.025 23.125C9.025 22.843 9.015 22.143 9.01 21.243C5.672 21.943 4.968 19.653 4.968 19.653C4.422 18.243 3.633 17.843 3.633 17.843C2.546 17.043 3.717 17.058 3.717 17.058C4.922 17.148 5.555 18.313 5.555 18.313C6.633 20.098 8.388 19.618 9.075 19.313C9.185 18.543 9.5 17.993 9.85 17.693C7.155 17.393 4.344 16.333 4.344 11.653C4.344 10.323 4.797 9.223 5.555 8.363C5.425 8.063 5.045 6.823 5.665 5.123C5.665 5.123 6.695 4.803 8.995 6.353C9.985 6.083 11.045 5.95 12.105 5.945C13.165 5.95 14.225 6.083 15.215 6.353C17.515 4.803 18.545 5.123 18.545 5.123C19.165 6.823 18.785 8.063 18.655 8.363C19.415 9.223 19.865 10.323 19.865 11.653C19.865 16.345 17.05 17.392 14.345 17.692C14.805 18.073 15.225 18.833 15.225 20.003C15.225 21.693 15.215 22.843 15.215 23.125C15.215 23.438 15.435 23.8 16.045 23.682C20.81 22.09 24.25 17.63 24.25 12.297C24.25 5.67 18.877 0.297 12.25 0.297H12Z" />
+            </svg>
+            GitHub
+          </a>
+        </li>
+      </ul>
     </div>
+  </details>
+</div>
   </div>
 
   <div class="footer">
