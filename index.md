@@ -309,13 +309,13 @@ layout: default
         <summary>📂 Projects</summary>
         <div class="details-inner">
           <div class="project">
-            <h3 class="project-title">Vulnerability Code Detector Plugin/h3>
+            <h3 class="project-title">Vulnerability Code Detector Plugin</h3>
             <p>Developed Visual Studio Code plugin to detect, classify and explain vulnerabilities on code.</p>
             <p class="small"><strong>Tech stack:</strong> Vulnerability Analyst, AI, Python, JavaScript, API integration, custom reporting.</p>
             <p class="small"><strong>Role:</strong> Full-stack security developer and analyst.</p>
             <p class="small"><strong>Outcome:</strong> Reduced manual triage time and produced actionable reports for remediation.</p>
             <p class="small"><strong>Try it:</strong> <a href="https://marketplace.visualstudio.com/items?itemName=BlancaCal.vulnDetector&ssr=false#overview" target="_blank" rel="noopener">Download from Visual Studio Marketplace</a></p>
-            p><a href="https://github.com/BlancaCal/VulnDetectorPlugin" target="_blank" rel="noopener">View on GitHub</a></p> 
+            <p><a href="https://github.com/BlancaCal/VulnDetectorPlugin" target="_blank" rel="noopener">View on GitHub</a></p> 
           </div>
           <!-- Additional projects can follow the same structure -->
         </div>
