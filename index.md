@@ -284,7 +284,7 @@ layout: default
                 Certified Ethical Hacker - Cisco Networking Academy
               </a>
             </li>
-            li>
+            <li>
               <span class="badge">Certificate</span>
               <a href="https://www.certipedia.com/quality_marks/0217527739?locale=es" target="_blank" rel="noopener">
                 Interal Auditor ISO 27001
