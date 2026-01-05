@@ -287,7 +287,13 @@ layout: default
             <li>
               <span class="badge">Certificate</span>
               <a href="https://www.certipedia.com/quality_marks/0217527739?locale=es" target="_blank" rel="noopener">
-                Interal Auditor ISO 27001
+                Internal Auditor ISO 27001
+              </a>
+            </li>
+            <li>
+              <span class="badge">Certificate</span>
+              <a href="https://learn.microsoft.com/api/credentials/share/es-es/BlancaCaldern-0105/BED02F6B00D3AA7A?sharingId=4399154DD8A1269" target="_blank" rel="noopener">
+                Github Advanced Security
               </a>
             </li>
             <li>
